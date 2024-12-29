@@ -1,0 +1,15 @@
+.subscribe-btn {
+    background-color: rgb(196, 36, 36);
+    color: rgb(22, 185, 85);
+    font-weight: bold;
+    padding:10px 20px;
+    
+    border-radius: 20px;
+    
+}
+
+.subscribe-btn:hover{
+    opacity: 0.6;
+}
+
+

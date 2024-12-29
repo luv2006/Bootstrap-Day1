@@ -1,0 +1,16 @@
+.join-btn{
+    background-color: grey;
+    color: white;
+    font-weight: bold;
+    padding: 20px 40px;
+    
+    border-radius: 50px;
+    
+}
+
+.subscribe-btn:hover{
+    opacity: 1;
+    text-decoration:underline;
+    cursor: pointer;
+
+}
